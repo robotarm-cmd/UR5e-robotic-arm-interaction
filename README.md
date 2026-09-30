@@ -73,5 +73,6 @@ python calculation/ur5e_standard_dh.py --q 30 -60 90 -30 45 60 --json calculatio
 
 图中的机械外壳是简化示意，DH 原点和坐标轴按上述参数计算。模型不含具体机器的出厂标定修正、安装坐标变换或额外工具/TCP 变换。
 
-<img width="893" height="557" alt="image" src="https://github.com/user-attachments/assets/064e5bb2-992a-497f-8922-4bf86d092bad" />
+<img width="2560" height="1346" alt="image" src="https://github.com/user-attachments/assets/3c53d097-9236-443e-a19d-957717796374" />
+
 
