@@ -4,7 +4,7 @@ To facilitate the understanding of the DH parameter model of the robotic arm, th
 
 ## 打开与操作
 
-1. 先解压整个 ZIP，再双击 `index.html`，用浏览器打开。
+1. 下载文件，再双击 `index.html`，用浏览器打开。
 2. 页面可离线使用，无须联网、安装依赖或启动服务器。
 3. 拖动六个关节滑块，或在右侧数值框输入角度，分别调节 q₁～q₆。界面角度单位为度，位置单位为米。
 4. 在机械臂画面中拖拽可旋转观察视角；也可选择斜视、正视或俯视。
