@@ -2,8 +2,6 @@
 To facilitate the understanding of the DH parameter model of the robotic arm, the orientation of the coordinate axes has been determined
 # UR5e 标准 DH 交互演示
 
-# UR5e 标准 DH 交互演示
-
 ## 打开与操作
 
 1. 下载整个文件，用浏览器打开 `index.html`。
