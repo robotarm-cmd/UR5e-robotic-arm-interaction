@@ -102,6 +102,7 @@ python mujoco/render.py
 独立核验：200 组随机关节角，MuJoCo 调整版所有body与DH坐标转换、末端attachment_site与T06相符，最大矩阵误差1.33e-15。该数值验证运动学，不代表简化网格的表面误差。
 
 `mujoco/prepare_mesh.py` 保留网格转换和压缩代码；它另外需要 `trimesh` 与 `fast-simplification`。运行后输出 `src/mesh-data.json` 和 gzip/base64 数据。网页的内嵌数据已生成，普通使用无需运行此脚本。交互版保留77,495个三角面，外壳不透明，页面没有外部网络请求。
-<img width="2560" height="1346" alt="image" src="https://github.com/user-attachments/assets/3c53d097-9236-443e-a19d-957717796374" />
+
+<img width="1257" height="638" alt="0a7035e0-1411-4e02-a7f5-9ec2a53396ab" src="https://github.com/user-attachments/assets/de5d0129-8a30-43a6-852e-4d6563d7a51c" />
 
 
