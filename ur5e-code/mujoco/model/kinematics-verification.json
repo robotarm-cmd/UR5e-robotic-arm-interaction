@@ -1,0 +1,11 @@
+{
+  "samples": 82,
+  "max_matrix_error": 1.3322676295501878e-15,
+  "changes": {
+    "shoulder_link": "0 0 0.1625",
+    "wrist_1_link": "0 0 0.3922",
+    "wrist_2_link": "0 0.1263 0",
+    "wrist_3_link": "0 0 0.0997"
+  },
+  "attachment_site_pos": "0 0.0996 0"
+}
